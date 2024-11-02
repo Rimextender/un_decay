@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cannon-es-debugger": "^1.0.0",
+    "three": "^0.169.0",
+    "three-bvh-csg": "^0.0.16",
+    "three-js-csg": "^72.0.0",
+    "three-mesh-ui": "^6.5.4",
+    "three-to-cannon": "^5.0.2"
+  },
+  "devDependencies": {
+    "cannon-es": "^0.20.0",
+    "dat.gui": "^0.7.9",
+    "three-inspect": "^0.7.2"
+  }
+}
